@@ -97,14 +97,14 @@ header{
   justify-content: center;
 }
 .box1{
-  width: 1000px;
+  width: 100%;
   height: 360px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 .text1{
-  width: 700px;
+  width: 100%;
   height: 130px;
 }
 .text1 p{
@@ -115,7 +115,7 @@ header{
   text-align: center;
 }
 .text2{
-  width: 700px;
+  width: 100%;
   height: 100px;
 }
 .text2 p{
@@ -126,7 +126,7 @@ header{
   text-align: center;
 }
 .icon{
-  width: 550px;
+  width: 35%;
   height: 120px;
   display: flex;
   justify-content: space-between;
@@ -147,7 +147,7 @@ header{
   align-items: center;
 }
 .box2{
-  width: 650px;
+  width: 40%px;
   height: 300px;
   display: flex;
   justify-content: center;
@@ -162,7 +162,8 @@ header{
   font-family: "HelveticaLTStd";
   color: rgb(255, 255, 255);
   line-height: 1.778;
-  text-align: left;
+  text-align: center;
+
 }
 .sc3{
   width: 100%;

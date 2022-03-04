@@ -1,0 +1,40 @@
+@media (max-width: 850px){
+    .menu li{
+        font-size: 15px;
+    }
+}
+@media(max-width:690px){
+    .menu li{
+        justify-content: space-around;
+    }
+    .logo p{
+        display: none;
+    }
+    
+}
+@media (max-width:990px){
+    .box3 {
+        width: 600px;
+    }
+    .box3 p{
+        font-size: 14px;
+    }
+}
+
+@media (max-width:670px){
+    .box3 p{
+        font-size: 10px;
+    }
+    .box3{
+        width: 400px;
+    }
+    .text1 p{
+        font-size: 25px;
+    }
+    
+}
+@media (max-width:800px){
+    .icon{
+        width: 60%;
+    }
+}
